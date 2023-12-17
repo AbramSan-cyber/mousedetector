@@ -1,0 +1,15 @@
+#colorBox {
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#textIndicator {
+    color: white;
+    font-size: 20px;
+}
